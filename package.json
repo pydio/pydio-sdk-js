@@ -1,5 +1,5 @@
 {
-  "name": "pydio-sdk-v2",
+  "name": "pydio-sdk-js",
   "version": "2.0.0",
   "description": "Access to a Pydio Server - Second version of the API",
   "license": "Apache v2",
