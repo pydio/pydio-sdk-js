@@ -114,7 +114,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -159,7 +159,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelAdminWorkspace2['default'];
@@ -202,7 +202,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -251,7 +251,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelAdminWorkspace2['default'];
@@ -308,7 +308,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -360,7 +360,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelAdminWorkspace2['default'];
@@ -403,7 +403,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelNodeList2['default'];
@@ -454,7 +454,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -496,7 +496,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelAdminWorkspace2['default'];
@@ -556,7 +556,7 @@ var ProvisioningApi = (function () {
         'userPass': opts['userPass']
       };
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = ['application/json'];
       var accepts = ['application/json'];
       var returnType = _modelPydioResponse2['default'];
@@ -610,7 +610,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = ['application/json'];
       var accepts = ['application/json'];
       var returnType = _modelRole2['default'];
@@ -659,7 +659,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = _modelPydioResponse2['default'];
@@ -704,7 +704,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = _modelPydioResponse2['default'];
@@ -754,7 +754,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelNodeList2['default'];
@@ -807,7 +807,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = _modelRole2['default'];
@@ -850,7 +850,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelNodeList2['default'];
@@ -912,7 +912,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = ['application/json'];
       var accepts = ['application/json'];
       var returnType = _modelPydioResponse2['default'];
@@ -965,7 +965,7 @@ var ProvisioningApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = ['application/json'];
       var accepts = ['application/json'];
       var returnType = _modelRole2['default'];

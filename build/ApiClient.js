@@ -59,7 +59,9 @@ var ApiClient = (function () {
          * The authentication methods to be included for all API calls.
          * @type {Array.<String>}
          */
-        this.authentications = {};
+        this.authentications = {
+            'basicAuth': { type: 'basic' }
+        };
 
         /**
          * The default HTTP headers to be included for all API calls.

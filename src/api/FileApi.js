@@ -71,7 +71,7 @@ export default class FileApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -125,7 +125,7 @@ export default class FileApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -180,7 +180,7 @@ export default class FileApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/octet-stream'];
       let returnType = File;
@@ -259,7 +259,7 @@ export default class FileApi {
         'page_position': opts['pagePosition']
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = NodeList;
@@ -326,7 +326,7 @@ export default class FileApi {
         'metadata': metadata
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -392,7 +392,7 @@ export default class FileApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = [];
       let returnType = PydioResponse;

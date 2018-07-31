@@ -64,7 +64,7 @@ var UserAccountApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = Object;
@@ -98,7 +98,7 @@ var UserAccountApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = Object;
@@ -132,7 +132,7 @@ var UserAccountApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = Object;

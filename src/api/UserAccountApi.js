@@ -51,7 +51,7 @@ export default class UserAccountApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = Object;
@@ -92,7 +92,7 @@ export default class UserAccountApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = Object;
@@ -133,7 +133,7 @@ export default class UserAccountApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = Object;

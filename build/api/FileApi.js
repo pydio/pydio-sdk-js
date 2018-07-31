@@ -95,7 +95,7 @@ var FileApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -143,7 +143,7 @@ var FileApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -193,7 +193,7 @@ var FileApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/octet-stream'];
       var returnType = File;
@@ -269,7 +269,7 @@ var FileApi = (function () {
         'page_position': opts['pagePosition']
       };
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelNodeList2['default'];
@@ -331,7 +331,7 @@ var FileApi = (function () {
         'metadata': metadata
       };
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json', 'application/xml'];
       var returnType = _modelPydioResponse2['default'];
@@ -392,7 +392,7 @@ var FileApi = (function () {
       };
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = [];
       var returnType = _modelPydioResponse2['default'];

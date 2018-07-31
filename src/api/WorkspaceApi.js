@@ -67,7 +67,7 @@ export default class WorkspaceApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = [InlineResponse2003];
@@ -124,7 +124,7 @@ export default class WorkspaceApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = InlineResponse2002;

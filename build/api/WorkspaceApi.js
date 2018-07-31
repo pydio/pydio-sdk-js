@@ -87,7 +87,7 @@ var WorkspaceApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = [_modelInlineResponse20032['default']];
@@ -139,7 +139,7 @@ var WorkspaceApi = (function () {
       };
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = ['application/json'];
       var returnType = _modelInlineResponse20022['default'];

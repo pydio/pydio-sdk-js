@@ -62,7 +62,7 @@ export default class TaskApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = ['application/json'];
       let accepts = [];
       let returnType = Task;
@@ -113,7 +113,7 @@ export default class TaskApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = [];
       let returnType = Task;
@@ -162,7 +162,7 @@ export default class TaskApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = [];
       let returnType = Task;
@@ -217,7 +217,7 @@ export default class TaskApi {
         'path': this.apiClient.buildCollectionParam(opts['path'], 'multi')
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = [];
       let returnType = [Task];
@@ -272,7 +272,7 @@ export default class TaskApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = ['application/json'];
       let accepts = [];
       let returnType = Task;

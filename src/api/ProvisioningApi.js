@@ -81,7 +81,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -133,7 +133,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = AdminWorkspace;
@@ -182,7 +182,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -237,7 +237,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = AdminWorkspace;
@@ -300,7 +300,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -357,7 +357,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = AdminWorkspace;
@@ -406,7 +406,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = NodeList;
@@ -463,7 +463,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = PydioResponse;
@@ -512,7 +512,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = AdminWorkspace;
@@ -576,7 +576,7 @@ export default class ProvisioningApi {
         'userPass': opts['userPass']
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = ['application/json'];
       let accepts = ['application/json'];
       let returnType = PydioResponse;
@@ -636,7 +636,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = ['application/json'];
       let accepts = ['application/json'];
       let returnType = Role;
@@ -690,7 +690,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = PydioResponse;
@@ -741,7 +741,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = PydioResponse;
@@ -796,7 +796,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = NodeList;
@@ -854,7 +854,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json'];
       let returnType = Role;
@@ -903,7 +903,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = [];
       let accepts = ['application/json', 'application/xml'];
       let returnType = NodeList;
@@ -970,7 +970,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = ['application/json'];
       let accepts = ['application/json'];
       let returnType = PydioResponse;
@@ -1029,7 +1029,7 @@ export default class ProvisioningApi {
       let formParams = {
       };
 
-      let authNames = [];
+      let authNames = ['basicAuth'];
       let contentTypes = ['application/json'];
       let accepts = ['application/json'];
       let returnType = Role;

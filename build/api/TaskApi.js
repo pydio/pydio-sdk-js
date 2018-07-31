@@ -79,7 +79,7 @@ var TaskApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = ['application/json'];
       var accepts = [];
       var returnType = _modelTask2['default'];
@@ -124,7 +124,7 @@ var TaskApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = [];
       var returnType = _modelTask2['default'];
@@ -167,7 +167,7 @@ var TaskApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = [];
       var returnType = _modelTask2['default'];
@@ -216,7 +216,7 @@ var TaskApi = (function () {
         'path': this.apiClient.buildCollectionParam(opts['path'], 'multi')
       };
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = [];
       var accepts = [];
       var returnType = [_modelTask2['default']];
@@ -265,7 +265,7 @@ var TaskApi = (function () {
       var headerParams = {};
       var formParams = {};
 
-      var authNames = [];
+      var authNames = ['basicAuth'];
       var contentTypes = ['application/json'];
       var accepts = [];
       var returnType = _modelTask2['default'];
